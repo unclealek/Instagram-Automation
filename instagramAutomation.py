@@ -14,6 +14,7 @@ user2 = '******'
 user3 = '******'
 '''
 listing users to access account
+input usernames to retrive data from
 '''
 
 ig = webdriver.Chrome(executable_path='/Users/mac/ChromeDriver/chromedriver')
